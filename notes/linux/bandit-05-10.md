@@ -1,1 +1,2 @@
-notes for bandit 5-10
+Bandit levels 0-5 notes
+
